@@ -42,3 +42,6 @@ get.variables(lprec)
 
 # What is the maximum profit?
 get.objective(lprec)
+
+#write.lp(lprec, "dresses_and_trousers.lp")
+
